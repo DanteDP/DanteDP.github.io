@@ -25,12 +25,42 @@ body {
 }
 
 .container {
-  background-color: #0b3c5d;
+border: 50px;
+border-color: #1d2731;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  border-radius: 10px;
+background:rgb(11, 60, 93);
+border-radius: 30px;
+padding: 25px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #000000;
+    }
+
+td {
+    height: 50px;
+    vertical-align: center;
+}
+
+th {
+   color: black;
+   background-color:rgb(53, 112, 206);
+   }
+   
+td {
+   color: black;
+   background-color:rgb(53, 112, 206);
+
 }
 
 h1, h2, h3, h4, h5, h6 {
