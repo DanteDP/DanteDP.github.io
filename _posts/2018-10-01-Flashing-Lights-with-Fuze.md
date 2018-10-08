@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Flashing Lights with Fuze</td>
     <td>Date</td>
-    <td>01/08/18</td>
+    <td>01/10/18</td>
   </tr>
 </table>
 
